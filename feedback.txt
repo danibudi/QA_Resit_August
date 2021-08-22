@@ -1,0 +1,12 @@
+TODO:
+- missing assertions - by definition they prove or deny the test results
+- only one test case - required at least 3 with edge cases
+- not used testing library - expected: unittest, pytest, etc.
+- use exceptions. 
+- Jenkins job doesn't run the test: missing Jenkins bat file. CI/CD will doesn't execute and show the test status
+- use settings for the constants /urls/ to follow DNRY
+- remove project files from git - only selenium related code should be in the repository + webdriver
+- use SW metrics to improve the qualty of the code
+
+-----------
+- present penetration test
